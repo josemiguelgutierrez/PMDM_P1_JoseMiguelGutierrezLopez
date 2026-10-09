@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margen_pantalla">16dp</dimen>
+    <dimen name="margen_entre_elementos">12dp</dimen>
+    <dimen name="alto_minimo_boton">48dp</dimen>
+    <dimen name="tamano_logo">96dp</dimen>
+    <dimen name="alto_foto">180dp</dimen>
+    <dimen name="texto_titulo">28sp</dimen>
+    <dimen name="texto_subtitulo">20sp</dimen>
+    <dimen name="texto_normal">16sp</dimen>
+</resources>
