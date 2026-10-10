@@ -50,4 +50,4 @@ Para ver la traducción, cambia el idioma del dispositivo a inglés en *Ajustes 
 
 ## Memoria
 
-Toda la documentación (análisis del desarrollo móvil, especificación de la app, entorno de desarrollo, recursos y conclusión personal) está en la memoria: [`docs/memoria.pdf`](docs/memoria.pdf).
+Toda la documentación (análisis del desarrollo móvil, especificación de la app, entorno de desarrollo, recursos y conclusión personal) está en la memoria: [`docs/Memoria.pdf`](docs/Memoria.pdf).
