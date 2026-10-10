@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Titulo">
+        <item name="android:textSize">@dimen/texto_titulo</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/color_primario</item>
+    </style>
+
+    <style name="Titulo.Pequeno">
+        <item name="android:textSize">@dimen/texto_subtitulo</item>
+    </style>
+
+    <style name="TextoNormal">
+        <item name="android:textSize">@dimen/texto_normal</item>
+        <item name="android:textColor">@color/color_texto</item>
+    </style>
+
+    <style name="BotonPrincipal" parent="Widget.Material3.Button">
+        <item name="android:minHeight">@dimen/alto_minimo_boton</item>
+        <item name="android:textSize">@dimen/texto_normal</item>
+    </style>
+</resources>
